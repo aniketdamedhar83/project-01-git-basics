@@ -1,22 +1,25 @@
-# Project 01 – DNA Fusion Simulator
+# Project 01 – DNA Evolution Lab 🧬
 
 ## Objective
-To simulate the combination of DNA from two animals and generate a unique DNA
-sequence for a hypothetical new species.
+To simulate DNA fusion, mutation, and evolution of a new species using
+Python and Streamlit.
 
 ## Disclaimer
-This project is a **simulation for educational purposes only** and does not represent
-real genetic engineering or biological accuracy.
+This project is a **simulation for educational purposes only**.
+It does NOT represent real genetic engineering.
 
-## Technologies Used
+## Features
+- DNA validation (A, T, G, C)
+- DNA normalization
+- Controlled mutation logic
+- Species name generation
+- Similarity analysis
+- Downloadable DNA output
+- Interactive Streamlit UI
+
+## Tech Stack
 - Python
 - Streamlit
-
-## How It Works
-1. Select two animals
-2. DNA is combined base-by-base
-3. Random mutation adds uniqueness
-4. New DNA sequence is generated
 
 ## How to Run
 ```bash
