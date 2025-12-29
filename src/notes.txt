@@ -1,0 +1,9 @@
+Project 01 – Git Basics
+
+Learned:
+- What Git is
+- What GitHub is
+- How repositories work
+
+Goal:
+Build 50 projects by the end of the semester.
